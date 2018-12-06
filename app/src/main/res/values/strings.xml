@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerprintDemo</string>
+    <string name="action_settings">Settings</string>
+</resources>
